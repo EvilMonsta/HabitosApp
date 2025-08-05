@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habitos", "Habitos\Habitos.csproj", "{CBC36E15-365E-4431-AECD-C1021F6EFF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habitos.Core", "Habitos.Core\Habitos.Core.csproj", "{48FAF18B-CDB8-4917-8B10-C17C222751A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC36E15-365E-4431-AECD-C1021F6EFF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC36E15-365E-4431-AECD-C1021F6EFF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC36E15-365E-4431-AECD-C1021F6EFF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC36E15-365E-4431-AECD-C1021F6EFF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FAF18B-CDB8-4917-8B10-C17C222751A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FAF18B-CDB8-4917-8B10-C17C222751A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FAF18B-CDB8-4917-8B10-C17C222751A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FAF18B-CDB8-4917-8B10-C17C222751A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6ACF8F-5663-4FF5-9A3B-2CDADE554D91}
+	EndGlobalSection
+EndGlobal
