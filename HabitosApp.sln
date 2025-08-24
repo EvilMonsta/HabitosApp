@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habitos", "Habitos\Habitos.csproj", "{CBC36E15-365E-4431-AECD-C1021F6EFF53}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habitos.Core", "Habitos.Core\Habitos.Core.csproj", "{48FAF18B-CDB8-4917-8B10-C17C222751A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habitos.DataAccess", "HabitosApp.DataAccess\Habitos.DataAccess.csproj", "{8DB1A02A-5ADD-450E-8DC4-2014257EA053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{48FAF18B-CDB8-4917-8B10-C17C222751A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48FAF18B-CDB8-4917-8B10-C17C222751A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48FAF18B-CDB8-4917-8B10-C17C222751A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB1A02A-5ADD-450E-8DC4-2014257EA053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB1A02A-5ADD-450E-8DC4-2014257EA053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB1A02A-5ADD-450E-8DC4-2014257EA053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB1A02A-5ADD-450E-8DC4-2014257EA053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
